@@ -1,1 +1,1 @@
-My solutions for the prerequisite test for ES335 course
+This contains ML algorithms implemented from scratch during coursework for ES335: Introduction to Machine Learning
